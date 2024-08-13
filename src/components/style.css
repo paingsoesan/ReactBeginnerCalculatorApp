@@ -1,0 +1,18 @@
+/* styles.css */
+:root {
+    --background-light: white;
+    --color-light: black;
+    --background-dark: black;
+    --color-dark: white;
+  }
+  
+  .light-theme {
+    background-color: var(--background-light);
+    color: var(--color-light);
+  }
+  
+  .dark-theme {
+    background-color: var(--background-dark);
+    color: var(--color-dark);
+  }
+  
